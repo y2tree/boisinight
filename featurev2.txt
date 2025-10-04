@@ -1,0 +1,4 @@
+lHeure de dodo
+
+- afficher l'heure actuelle en lancant le scipt
+- juste ajouter 15 min de temps d'endormissement (demander si mets bcp de temps a s'endormir)

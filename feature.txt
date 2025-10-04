@@ -1,0 +1,6 @@
+lHeure de dodo
+
+- afficher l'heure actuelle en lancant le scipt
+- juste ajouter 15 min de temps d'endormissement 
+- afficher l'heure de levé pour avoir 6h, 7h30,9h de somme en mettant les nombres de cycles fait
+- donne un lien vers une etudes qui explique l'importance et les difference entre dormir 6-7h30-9h
